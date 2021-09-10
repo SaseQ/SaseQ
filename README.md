@@ -26,8 +26,13 @@ Spring Boot 🔹 Microservices 🔹 Programming
 <a href="https://www.youtube.com/c/saseq-pl">
   <img align="left" alt="Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/2048px-YouTube_social_white_squircle_%282017%29.svg.png" />
 </a>
-- 🗣 [Blog](https://marczuk.it)
-- 📫 [E-mail](mailto:bmarczuk03@gmail.com)
+<a href="https://marczuk.it">
+  <img align="left" alt="Blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1030px-Blogger.svg.png" />
+</a>
+</a>
+<a href="mailto:bmarczuk03@gmail.com">
+  <img align="left" alt="E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
+</a>
 
 ## My Github Stats 📈 
 
