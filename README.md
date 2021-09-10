@@ -14,12 +14,20 @@ Spring Boot 🔹 Microservices 🔹 Programming
 
 ## Find Me Around The Web 🌍
 
-- 🔗 [Linkedin](https://www.linkedin.com/in/bartłomiej-marczuk/)
-- 🐦 [Twitter](https://twitter.com/saseqpl)
-- 🔴 [YouTube](https://www.youtube.com/c/saseq-pl)
+<a href="https://www.linkedin.com/in/bartłomiej-marczuk/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/saseqpl">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/uCjfqRe">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.youtube.com/c/saseq-pl">
+  <img align="left" alt="Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/2048px-YouTube_social_white_squircle_%282017%29.svg.png" />
+</a>
 - 🗣 [Blog](https://marczuk.it)
 - 📫 [E-mail](mailto:bmarczuk03@gmail.com)
-
 
 ## My Github Stats 📈 
 
