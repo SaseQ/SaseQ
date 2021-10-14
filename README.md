@@ -23,7 +23,7 @@ Spring Boot 🔹 Microservices 🔹 Programming
 <a href="https://discord.gg/uCjfqRe">
   <img align="left" alt="Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.youtube.com/c/saseq-pl">
+<a href="https://www.youtube.com/channel/UCS38t18JiUPI4SInk4LWW3Q">
   <img align="left" alt="Youtube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/2048px-YouTube_social_white_squircle_%282017%29.svg.png" />
 </a>
 <a href="https://marczuk.it">
