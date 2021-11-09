@@ -34,6 +34,12 @@ Spring Boot 🔹 Microservices 🔹 Programming
   <img align="left" alt="E-mail" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
 </a><br><br>
 
+## Working Projects 📗
+
+<a href="https://www.larsbot.pl/">
+  <img align="left" alt="LinkedIN" width="32px" src="https://i.imgur.com/vxaVLEf.png" />
+</a>
+
 ## My Github Stats 📈 
 
 ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=saseq&show_icons=true&theme=gotham)
