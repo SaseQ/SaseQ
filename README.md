@@ -38,7 +38,7 @@ Spring Boot 🔹 Microservices 🔹 Programming
 
 <a href="https://www.larsbot.pl/">
   <img align="left" alt="LinkedIN" width="32px" src="https://i.imgur.com/vxaVLEf.png" />
-</a>
+</a><br><br>
 
 ## My Github Stats 📈 
 
