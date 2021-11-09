@@ -32,12 +32,12 @@ Spring Boot 🔹 Microservices 🔹 Programming
 </a>
 <a href="mailto:bmarczuk03@gmail.com">
   <img align="left" alt="E-mail" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
-</a><br>
+</a><br><br>
 
 ## Working Projects 📗
 
 <a href="https://www.larsbot.pl/">
-  <img align="left" alt="LinkedIN" width="37px" src="https://i.imgur.com/vxaVLEf.png" />
+  <img align="left" alt="LinkedIN" width="34px" src="https://i.imgur.com/vxaVLEf.png" />
 </a><br><br>
 
 ## My Github Stats 📈 
