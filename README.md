@@ -36,7 +36,7 @@ Spring Boot 🔹 Microservices 🔹 Programming
 
 ## Working Projects 📗
 
-<a href="https://www.larsbot.pl/">
+<a href="https://larsbot.pl/">
   <img align="left" alt="LinkedIN" width="34px" src="https://i.imgur.com/vxaVLEf.png" />
 </a><br><br>
 
