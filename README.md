@@ -2,7 +2,7 @@
 
 Spring Boot 🔹 Microservices 🔹 Programming
 
-![](https://media-exp1.licdn.com/dms/image/C4D16AQH5F5wGJcwSsA/profile-displaybackgroundimage-shrink_350_1400/0/1615201487918?e=1648684800&v=beta&t=I9xaEXlrZU0pSz80bgRvKAjhLbpYuISLaVa3RQ30Tls)
+![](https://media-exp1.licdn.com/dms/image/C4D16AQH5F5wGJcwSsA/profile-displaybackgroundimage-shrink_350_1400/0/1615201487918?e=1654128000&v=beta&t=CuxfCu1pP8_Bx42hmZvrQfM23339-3Rwy7dFuFTscFk)
 
 ### 🛠 &nbsp;Tech Stack
 
