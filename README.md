@@ -1,6 +1,4 @@
-# Hello, I am Bartłomiej 👋
-
-Spring Boot 🔹 Microservices 🔹 Programming
+# Hi, Bartek here 👋
 
 ![](https://i.imgur.com/X9jnYNx.png)
 
