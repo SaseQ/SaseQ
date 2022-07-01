@@ -20,7 +20,7 @@ Spring Boot 🔹 Microservices 🔹 Programming
 <a href="https://twitter.com/saseqpl">
   <img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/uCjfqRe">
+<a href="https://discord.gg/DEVjPByVa9">
   <img align="left" alt="Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCS38t18JiUPI4SInk4LWW3Q">
