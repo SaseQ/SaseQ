@@ -1,8 +1,8 @@
 # Hello, I am Bartłomiej 👋
 
 Spring Boot 🔹 Microservices 🔹 Programming
-
-![](https://media-exp1.licdn.com/dms/image/C4E16AQEgaO_-rFXmjQ/profile-displaybackgroundimage-shrink_200_800/0/1652106359975?e=1658966400&v=beta&t=QW-OUaidrumxsmB11u7nib7tKrkyCeM5wQyYeW8riGo)
+https://drive.google.com/file/d/1y3ZAqkWAn-6funmFvHKQP0xLE_xpztDf/view
+![](https://drive.google.com/file/d/1y3ZAqkWAn-6funmFvHKQP0xLE_xpztDf/view)
 
 ### 🛠 &nbsp;Tech Stack
 
