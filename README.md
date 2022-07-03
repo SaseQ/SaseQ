@@ -32,11 +32,15 @@
   <img align="left" alt="E-mail" width="64px" src="https://img.icons8.com/clouds/344/apple-mail.png" />
 </a><br><br>
 
-## Working Projects 📗
+## FredDev Projects 📗
 
 <a href="http://larsbot.pl">
   <img align="left" alt="LinkedIN" width="34px" src="https://i.imgur.com/vxaVLEf.png" />
 </a><br><br>
+
+## My Top Langs ☕
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/saseq/github-readme-stats&layout=compact)
 
 ## My Github Stats 📈 
 
