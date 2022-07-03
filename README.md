@@ -40,7 +40,7 @@
 
 ## My Top Langs ☕
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/saseq/github-readme-stats&layout=compact&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseq&theme=gotham)](https://github.com/saseq/github-readme-stats&layout=compact&theme=gotham)
 
 ## My Github Stats 📈 
 
