@@ -32,7 +32,7 @@
 ## FredDev Projects 📗
 
 <a href="http://larsbot.pl">
-  <img align="left" alt="LinkedIN" width="34px" src="https://i.imgur.com/vxaVLEf.png" />
+  <img align="left" alt="LinkedIN" width="48px" src="https://i.imgur.com/vxaVLEf.png" />
 </a><br><br>
 
 ## My Top Langs ☕
