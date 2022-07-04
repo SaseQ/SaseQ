@@ -19,7 +19,7 @@
   <img align="left" alt="Discord" width="64px" src="https://media.macosicons.com/parse/files/macOSicons/56fd9058917f6e0fd13fb0a33abc102b_low_res_Discord.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCS38t18JiUPI4SInk4LWW3Q">
-  <img align="left" alt="Youtube" width="64px" src="https://media.macosicons.com/parse/files/macOSicons/abcbbff4b66f5502d99e9665ed12de00_low_res_YouTube__Dark_Mode_.pngg" />
+  <img align="left" alt="Youtube" width="64px" src="https://media.macosicons.com/parse/files/macOSicons/abcbbff4b66f5502d99e9665ed12de00_low_res_YouTube__Dark_Mode_.png" />
 </a>
 <a href="https://marczuk.it">
   <img align="left" alt="Blog" width="64px" src="https://media.macosicons.com/parse/files/macOSicons/0e97ab6aa54cfd67d5836c1208e3a113_low_res_Safari.png" />
