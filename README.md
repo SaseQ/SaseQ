@@ -25,7 +25,7 @@
   <img align="left" alt="Blog" width="64px" src="https://media.macosicons.com/parse/files/macOSicons/0e97ab6aa54cfd67d5836c1208e3a113_low_res_Safari.png" />
 </a>
 </a>
-<a href="mailto:bmarczuk03@gmail.com">
+<a href="mailto:bartekmarczuk03@gmail.com">
   <img align="left" alt="E-mail" width="64px" src="https://media.macosicons.com/parse/files/macOSicons/7b1345d8a703bd248e2b730f458e6ad8_low_res_Mail.png" />
 </a><br><br><br>
 
