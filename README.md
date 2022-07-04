@@ -29,6 +29,7 @@
   <img align="left" alt="E-mail" width="64px" src="https://img.icons8.com/clouds/344/apple-mail.png" />
 </a><br><br>
 
+
 ## FredDev Projects 📗
 
 <a href="http://larsbot.pl">
