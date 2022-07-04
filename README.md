@@ -4,7 +4,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,docker,idea,github,discord)]
+![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,docker,idea,github,discord)
 
 
 ## Find Me Around The Web 🌍
