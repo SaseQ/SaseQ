@@ -27,7 +27,7 @@
 </a>
 <a href="mailto:bmarczuk03@gmail.com">
   <img align="left" alt="E-mail" width="64px" src="https://img.icons8.com/clouds/344/apple-mail.png" />
-</a><br><br>
+</a>
 
 
 ## FredDev Projects 📗
