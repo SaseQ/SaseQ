@@ -1,6 +1,6 @@
 # Hi, Bartek here 👋
 
-![](media.discordapp.net/attachments/1184934424438132806/1184934500862525521/Group_60.png?ex=65ea1040&is=65d79b40&hm=bdb5032e55375fe506eb2dc6974732dc9b9214eccea2c3e304e19794a9f61147&=&format=webp&quality=lossless&width=1708&height=500)
+![](https://media.discordapp.net/attachments/1184934424438132806/1184934500862525521/Group_60.png?ex=65ea1040&is=65d79b40&hm=bdb5032e55375fe506eb2dc6974732dc9b9214eccea2c3e304e19794a9f61147&=&format=webp&quality=lossless&width=1708&height=500)
 
 ### 🛠 &nbsp;Tech Stack
 
