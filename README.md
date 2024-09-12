@@ -1,6 +1,6 @@
 # Hi, Bartek here 👋
 
-![](https://media.discordapp.net/attachments/1184934424438132806/1184934500862525521/Group_60.png?ex=669f5680&is=669e0500&hm=8bac7a2ea1f5c278147454cad7a091977d828865aafe7a309dff26aa283f82ae&=&format=webp&quality=lossless&width=1708&height=500)
+![](https://raw.githubusercontent.com/SaseQ/SaseQ/main/github_readme_banner.png)
 
 ### 🛠 &nbsp;Tech Stack
 
