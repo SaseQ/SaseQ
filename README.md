@@ -10,7 +10,7 @@
 ## Find Me Around The Web 🌍
 
 <a href="https://www.linkedin.com/in/bartłomiej-marczuk/">
-  <img align="left" alt="LinkedIN" width="64px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/main/web_icons/in_icon.png" />
+  <img align="left" alt="LinkedIN" width="64px" src="./web_icons/in_icon.png" />
 </a>
 <a href="https://twitter.com/saseqpl">
   <img align="left" alt="Twitter" width="64px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/main/web_icons/x_icon.png" />
