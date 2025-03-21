@@ -1,6 +1,6 @@
 # Hi, Bartek here 👋
 
-![](https://raw.githubusercontent.com/SaseQ/SaseQ/main/github_readme_banner.png)
+![](https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/github_readme_banner.png)
 
 ### 🛠 &nbsp;Tech Stack
 
