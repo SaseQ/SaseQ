@@ -29,16 +29,28 @@
   <img align="left" alt="E-mail" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/web_icons/mail_icon.png" />
 </a><br><br><br>
 
-## FredDev Projects 📗
+## SaseQ Dev Projects 📗
 
-<a href="http://larsbot.pl">
-  <img align="left" alt="LinkedIN" width="48px" src="https://i.imgur.com/vxaVLEf.png" />
+<a href="https://larsbot.pl">
+  <img align="left" alt="Lars Bot" width="48px" src="https://saseq.dev/images/lars_bot_logo_rd.png" />
+</a>
+<a href="https://saseq.dev">
+  <img align="left" alt="Jobcord" width="48px" src="https://saseq.dev/images/jobcord_logo_rd.png" />
+</a>
+<a href="https://saseq.dev">
+  <img align="left" alt="Fred Tools" width="48px" src="https://saseq.dev/images/Fred_Tools_logo_rd.png" />
+</a>
+<a href="https://saseq.dev">
+  <img align="left" alt="Decorator" width="48px" src="https://saseq.dev/images/decorator_logo_rd.png" />
+</a>
+<a href="https://saseq.dev">
+  <img align="left" alt="Flow" width="48px" src="https://saseq.dev/images/flow_logo_rd.png" />
+</a>
+<a href="https://saseq.dev">
+  <img align="left" alt="Delamain" width="48px" src="https://saseq.dev/images/delamain_ai_logo_rd.png" />
 </a><br><br>
-
-## My Top Langs ☕
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseq&theme=gotham&layout=compact)](https://github.com/saseq/github-readme-stats)
 
 ## My Github Stats 📈 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseq&theme=gotham&layout=compact)](https://github.com/saseq/github-readme-stats)
 ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=saseq&show_icons=true&theme=gotham)
