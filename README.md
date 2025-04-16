@@ -48,9 +48,9 @@
 </a>
 <a href="https://saseq.dev">
   <img align="left" alt="Delamain" width="48px" src="https://saseq.dev/images/delamain_ai_logo_rd.png" />
-</a><br><br>
+</a><br><br><br>
 
 ## My Github Stats 📈 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseq&theme=gotham&layout=compact)](https://github.com/saseq/github-readme-stats)
 ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=saseq&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseq&theme=gotham&layout=compact)
