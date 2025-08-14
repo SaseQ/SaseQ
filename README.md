@@ -2,10 +2,9 @@
 
 ![](https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/github_readme_banner.png)
 
-### 🛠 &nbsp;Tech Stack
+## Tech Stack 🛠
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,docker,idea,github,discord)
-
+![My Skills](https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/web_icons/skills-saseq.svg)
 
 ## Find Me Around The Web 🌍
 
@@ -24,18 +23,14 @@
 <a href="https://marczuk.it">
   <img align="left" alt="Blog" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/web_icons/web_icon.png" />
 </a>
-</a>
 <a href="mailto:bmarczuk@duck.com">
   <img align="left" alt="E-mail" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/web_icons/mail_icon.png" />
 </a><br><br><br>
 
 ## SaseQ Dev Projects 📗
 
-<a href="https://larsbot.pl">
+<a href="https://larsbot.saseq.dev">
   <img align="left" alt="Lars Bot" width="48px" src="https://saseq.dev/images/lars_bot_logo_rd.png" />
-</a>
-<a href="https://saseq.dev">
-  <img align="left" alt="Jobcord" width="48px" src="https://saseq.dev/images/jobcord_logo_rd.png" />
 </a>
 <a href="https://saseq.dev">
   <img align="left" alt="Fred Tools" width="48px" src="https://saseq.dev/images/Fred_Tools_logo_rd.png" />
@@ -44,13 +39,25 @@
   <img align="left" alt="Decorator" width="48px" src="https://saseq.dev/images/decorator_logo_rd.png" />
 </a>
 <a href="https://saseq.dev">
-  <img align="left" alt="Flow" width="48px" src="https://saseq.dev/images/flow_logo_rd.png" />
-</a>
-<a href="https://saseq.dev">
   <img align="left" alt="Delamain" width="48px" src="https://saseq.dev/images/delamain_ai_logo_rd.png" />
 </a><br><br><br>
 
-## My Github Stats 📈 
+## My Github Stats 📈
 
-![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=saseq&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseq&theme=gotham&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SaseQ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0B0B17&title_color=638ddb&icon_color=638ddb&text_color=FFFFFF"/>
+      </td>
+      <td align="center" width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaseQ&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0B0B17&title_color=638ddb&text_color=FFFFFF"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaseQ&theme=tokyonight&hide_border=true&border_radius=15&background=0B0B17&ring=638ddb&fire=FBB741&currStreakLabel=638ddb" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
