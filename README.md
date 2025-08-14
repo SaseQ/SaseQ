@@ -23,7 +23,7 @@
 <a href="https://marczuk.it">
   <img align="left" alt="Blog" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/web_icons/web_icon.png" />
 </a>
-<a href="mailto:bmarczuk@duck.com">
+<a href="mailto:saseq@saseq.dev">
   <img align="left" alt="E-mail" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/web_icons/mail_icon.png" />
 </a><br><br><br>
 
