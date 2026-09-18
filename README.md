@@ -7,7 +7,7 @@
 ## Find Me Around The Web 🌍
 
 <a href="https://saseq.dev">
-  <img align="left" alt="Website" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/assets/icons/saseq_dev_icon.png" />
+  <img align="left" alt="Website" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/assets/icons/saseq_dev.png" />
 </a>
 <a href="https://discord.gg/5Uvxe5jteM">
   <img align="left" alt="Discord" width="48px" src="https://raw.githubusercontent.com/SaseQ/SaseQ/refs/heads/main/assets/icons/discord_icon.png" />
